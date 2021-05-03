@@ -3204,6 +3204,94 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
+		CoolveticaCondensedRegular12
+		{
+			"1"
+			{
+				"name"		"CoolveticaCondensedRg-Regular"
+				"tall"		"12"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		CoolveticaCondensedRegular16
+		{
+			"1"
+			{
+				"name"		"CoolveticaCondensedRg-Regular"
+				"tall"		"16"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		CoolveticaCondensedRegular20
+		{
+			"1"
+			{
+				"name"		"CoolveticaCondensedRg-Regular"
+				"tall"		"20"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		CoolveticaCondensedRegular24
+		{
+			"1"
+			{
+				"name"		"CoolveticaCondensedRg-Regular"
+				"tall"		"24"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		CoolveticaCondensedRegular32
+		{
+			"1"
+			{
+				"name"		"CoolveticaCondensedRg-Regular"
+				"tall"		"32"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		CoolveticaCondensedRegular36
+		{
+			"1"
+			{
+				"name"		"CoolveticaCondensedRg-Regular"
+				"tall"		"36"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		CoolveticaCondensedRegular42
+		{
+			"1"
+			{
+				"name"		"CoolveticaCondensedRg-Regular"
+				"tall"		"42"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		CoolveticaCondensedRegular48
+		{
+			"1"
+			{
+				"name"		"CoolveticaCondensedRg-Regular"
+				"tall"		"48"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
 	}
 	
 	
